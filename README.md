@@ -30,22 +30,6 @@ This code calculates the **ideal geometric form** for droplet detachment. To ach
 
 *Warning: These formulations are designed for low-budget humanitarian deployment in field conditions where lab-grade reagents are unavailable. They cost almost zero.*
 
-#### Formula A: Cheap Hydrophobic Coating (Защита впадин и склонов)
-Instead of expensive fluoropolymers, we use simple wax-solvent chemistry available in any auto-shop or local market.
-* **Hydrophobic Agent:** Regular **Carnauba car wax** (e.g., Turtle Wax) OR melted **Paraffin/Beeswax** candles.
-* **Carrier Solvent:** Ordinary **White Spirit**, Mineral Spirits, or lighter fluid (Hexane alternative).
-* **Proportions:** Dissolve **5-10 grams of wax/paraffin** into **100 mL of solvent**.
-* **Preparation:** Warm the solvent slightly in a hot water bath (DO NOT use open fire!) and completely dissolve the wax. 
-* **Application:** Spray or dip the entire tile. As the solvent evaporates, a micro-layer of hydrophobic wax remains, offering a strong water-repellent effect ($\theta > 95^\circ$).
-
-#### Formula B: Cheap Hydrophilic Activation (Активация верхушек бугорков)
-Instead of lab-grade $TiO_2$ nanoparticles, we use everyday building materials or mineral powders.
-* **Hydrophilic Agent:** Common **Titanium Dioxide white pigment** (used in acrylic paints, food coloring, or homemade soap making, costs \$2 per kg) OR ordinary **White Talcum powder / Chalk dust**.
-* **Carrier:** Cheap **Water-based Acrylic Matte Varnish / Lacquer** (Clear coat).
-* **Proportions:** Mix **5 grams of pigment** into **50 mL of water-based clear varnish** until it forms a milky paste.
-* **Application (Stamping):** Pour a thin layer of this mixture onto a flat surface. Take your wax-coated tile, and lightly press its face into the paint. The paint will stick *only* to the tips of the bumps. 
-* **Result:** The matte acrylic resin locks the hydrophilic mineral powder onto the tips, creating a permanent water-attracting matrix without any nanotechnology.
-
 ### 🍯 100% Safe Eco-Formulations (Полностью пищевые безопасные составы)
 
 *Crucial Note: These formulas use strictly non-toxic, food-grade materials. The harvested water is 100% safe for consumption and has no chemical odor.*
@@ -100,6 +84,16 @@ When you see with your own eyes that shifting a single number (`WIND_SPEED`) in 
 
 You hold the power to adapt the geometry of nature to your specific village, your local microclimate, and your exact 3D printer. This is where the void ends, and clean water begins. Run the loop: **Code ➡️ Print ➡️ Wax ➡️ Spray ➡️ Save Lives.**
 
+## 🚨 CRITICAL CHEMICAL SAFETY WARNING (MUST READ BEFORE MANUFACTURING!)
+
+⚠️⚠️⚠️ **CHEMICAL TOXICITY ALERT** ⚠️⚠️⚠️
+
+*   **DO NOT USE White Spirit, Mineral Spirits, Petrol, or Industrial Solvents!** If you dissolve wax using chemical solvents, the residue will trap toxic hydrocarbons inside the porous 3D-printed plastic. The collected water will become **poisonous, toxic, and strictly unfit for human consumption.**
+*   **DO NOT USE commercial synthetic auto-waxes or industrial clear coats/varnishes** unless they are explicitly certified as 100% Food-Grade and Liquid-Safe.
+*   **THE RULE IS SIMPLE:** If you cannot safely eat the raw ingredients, **DO NOT** put them on the water-harvesting panel. 
+*   **ONLY USE THE 100% THERMAL ECO-METHOD:** Melt pure natural beeswax or carnauba wax using a water bath and heat gun without any chemical thinners. Use only food-grade Titanium Dioxide (E171) or cornstarch mixed with organic Gum Arabic (E414).
+
+*If you violate this protocol, you are building a chemical hazard, not a water collector. Safety first!*
 
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes.
