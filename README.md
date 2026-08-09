@@ -63,16 +63,18 @@ Instead of chemical solvents, we use pure thermal deposition of natural food-gra
   1. Melt the natural wax in a water bath (heat to ~70-80°C until it becomes a thin liquid).
   2. Briefly dip the entire 3D-printable panel into the liquid wax for 2 seconds, or apply a very thin layer using a natural bristle brush.
   3. Immediately blow hot air over the tile (using a heat gun or standard hair dryer). The hot air will melt away any excess thickness, leaving a microscopically thin, smooth, and highly hydrophobic bio-wax film across the valleys and slopes.
+  4. 
+#### Formula B: Food-Grade Long-Term Hydrophilic Activation (Долговечная безопасная фиксация)
 
-#### Formula B: Food-Grade Hydrophilic Activation (Безопасная активация верхушек)
-To attract water strictly on the tips of the bumps without using micro-plastics or chemical varnishes.
-* **Hydrophilic Mineral:** Food-grade **Titanium Dioxide ($TiO_2$, E171)** (the exact white powder used to color white M&Ms, chewing gums, and toothpaste, totally non-toxic and costs pennies) OR ordinary **Food-grade Cornstarch (Кукурузный крахмал)**.
-* **Carrier Binder:** Organic **Gum Arabic (Гуммиарабик / Пищевая смола акации, E414)**. This is a natural, water-soluble tree sap powder used for centuries as a safe binder in food and watercolors.
-* **Proportions:** Dissolve 2g of Gum Arabic in 20 mL of warm water, then mix in 5g of $TiO_2$ (or starch) until it forms a thick white paste.
-* **Application (The Safe Stamping Method):**
-  1. Spread a paper-thin layer of the white paste onto a flat glass plate.
-  2. Take your wax-coated tile and press its face gently onto the plate. The organic paste will stick *only* to the apexes of the bumps.
-  3. Let it dry completely. Once dry, the Gum Arabic forms a rock-hard, safe matrix that holds the water-attracting minerals on the peaks.
+Instead of water-soluble silicate glues (which leach dangerous alkalis into drinking water), use inert, non-toxic food-grade polymers.
+
+- **Hydrophilic Mineral:** Food-grade Titanium Dioxide ($TiO_2$, E171).
+- **Carrier Binder:** Food-Grade Silicone Sealant (certified FDA/ГОСТ) OR Aquarium-Safe Silicone. Once cured, it turns into an absolutely inert, waterproof rubber that releases zero chemicals.
+- **Application Process:**
+    1. Mix 5g of $TiO_2$ with a small amount of food-grade silicone until it forms a workable paste.
+    2. Stamp or dab the mixture precisely onto the apexes of the bumps.
+    3. Let it cure completely for 24–48 hours until the vinegar/solvent smell completely disappears.
+  
 ### 📊 Field Testing Protocol & Efficiency Hacking (Как тестировать и разгонять КПД)
 
 *You don’t need an atmospheric lab to test this. You can run validation in 5 minutes using a simple water spray bottle and a kitchen scale.*
@@ -104,6 +106,27 @@ When you open this code, you are not just running a script—you are bridging th
 When you see with your own eyes that shifting a single number (`WIND_SPEED`) in your terminal instantly resizes the bionic geometry on your screen, prints a perfect new mesh, and suddenly adds **+20% or +30% more clean water** into a test cup in a dry village—you see progress. You are no longer just a spectator; you are an engineer of reality. 
 
 You hold the power to adapt the geometry of nature to your specific village, your local microclimate, and your exact 3D printer. This is where the void ends, and clean water begins. Run the loop: **Code ➡️ Print ➡️ Wax ➡️ Spray ➡️ Save Lives.**
+
+### 🛖 Low-Cost Field Formulations & Critical Safety Patches
+
+> ⚠️ **IMPORTANT AMENDMENTS FOR MANUFACTURING SAFETY**
+> Before preparing the solutions below, review these four engineering updates to prevent physical injuries, material destruction, or water contamination.
+
+#### 1. Filament Temperature Barrier (PLA vs. PETG/ABS)
+* **The Risk:** Most standard 3D prints use **PLA**, which has a low glass transition temperature of **50–60°C**. If you submerge a PLA panel into molten wax at 80°C or overheat it with a high-power heat gun, the precise bionic micro-geometry will instantly melt, warp, and deform.
+* **The Solution:** For the Thermal Dip method, it is highly recommended to print panels using **PETG, ABS, or ASA** (which withstand temperatures up to 75–90°C). If you only have PLA, **DO NOT dip the panel**. Instead, apply the melted wax gently using a natural bristle brush with slightly cooled wax, and use a hair dryer on its lowest heat setting from a safe distance.
+
+#### 2. Bio-Contamination Prevention (The Mold & Bacteria Risk)
+* **The Risk:** Raw **cornstarch** and **Gum Arabic** are organic carbohydrates. In high-humidity environments (fog collection), these ingredients create a perfect petri dish for dangerous mold, fungi, and bacterial colonies within 48–72 hours. Drinking water that passes through a moldy panel poses severe health risks.
+* **The Solution:** **Strictly forbid** the use of cornstarch for permanent field deployments. Cornstarch must *only* be used for rapid, short-term 5-minute proof-of-concept efficiency tests. For real-world humanitarian water harvesting, use **only Titanium Dioxide ($TiO_2$)** as it is an inorganic mineral that does not support microbial growth.
+
+#### 3. Respiratory Protection During Mixing
+* **The Risk:** While Titanium Dioxide ($TiO_2$, E171) is safe to ingest in paste form, inhaling its dry airborne powder is **hazardous**. Fine mineral dust can settle deep inside the lungs and is classified as a potential respiratory carcinogen upon inhalation.
+* **The Solution:** Always wear a **protective mask or respirator (N95/FFP2 or better)** when handling, weighing, and mixing dry $TiO_2$ powder into the liquid binder. Do not shake the dry powder container in enclosed, unventilated spaces.
+
+#### 4. Mandatory Post-Collection Water Treatment
+* **The Risk:** Atmospheric fog can carry pollutants, heavy metals (near industrial zones), or road dust. Additionally, open-air panels are vulnerable to bird droppings and insect debris. Captured water is never naturally sterile.
+* **The Solution:** All harvested water must be treated before consumption. The official protocol requires volunteers to pass the water through a basic **mechanical particulate filter** and then **boil it thoroughly** (or treat it with standard water purification/chlorine tablets). Shape provides the water, but sterilization guarantees survival.
 
 ## 🚨 CRITICAL CHEMICAL SAFETY WARNING (MUST READ BEFORE MANUFACTURING!)
 
