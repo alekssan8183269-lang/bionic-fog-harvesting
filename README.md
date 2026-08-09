@@ -32,7 +32,26 @@ Run the standalone generator to compute optimal bionic proportions, plot the 3D 
 ```bash
 python namib_generator.py
 ```
+## ⚙️ Efficiency Tuning: How to Hack the Variables
 
+You don't need to rewrite the underlying math to adapt this tool to your local environment. Open `namib_generator.py` and modify the **Field Configuration Block** inside the `if __name__ == "__main__":` section at the bottom of the script:
+
+```python
+# --- REAL-WORLD FIELD CONFIGURATION BLOCK ---
+WIND = 3.5            # Target local wind speed in m/s (Increase if droplets freeze on peaks)
+FOG = 0.0005          # Local moisture content / fog density (in kg/m³, where 0.0005 = 0.5g/m³)
+
+# MANUFACTURING CONSTRAINTS (BOUNDS):
+# Defines the limits your 3D printer can safely handle without breaking the geometry
+# Format: [(Min_Radius, Max_Radius), (Min_Distance, Max_Distance)] in meters
+bounds = [(0.0015, 0.005), (0.006, 0.020)]  # Restricts search to 1.5-5.0mm radius
+
+initial_guess = [0.002, 0.008]  # Solver starting point: 2mm radius, 8mm distance
+```
+
+By tweaking these parameters, the script automatically recalibrates the non-linear fluid equations using the `Nelder-Mead` simplex solver, finding the perfect compromise between theoretical chemistry and physical 3D-printing tolerances.
+
+---
 ## 📊 Interactive Visualization & CAD Output
 * **3D Performance Landscape:** The script opens an interactive `matplotlib` environment displaying the efficiency gradient. You can visually track exactly how the evolutionary peak matches the mathematical optimum.
 * **Direct STL Engine:** Generates raw polygonal vertices and faces to compile a water-harvesting panel file (`namib_surface_panel.stl`) instantly, bypassing the need for heavy closed-source CAD software.
