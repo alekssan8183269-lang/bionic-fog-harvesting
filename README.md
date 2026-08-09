@@ -45,6 +45,7 @@ Instead of lab-grade $TiO_2$ nanoparticles, we use everyday building materials o
 * **Proportions:** Mix **5 grams of pigment** into **50 mL of water-based clear varnish** until it forms a milky paste.
 * **Application (Stamping):** Pour a thin layer of this mixture onto a flat surface. Take your wax-coated tile, and lightly press its face into the paint. The paint will stick *only* to the tips of the bumps. 
 * **Result:** The matte acrylic resin locks the hydrophilic mineral powder onto the tips, creating a permanent water-attracting matrix without any nanotechnology.
+
 ### 🍯 100% Safe Eco-Formulations (Полностью пищевые безопасные составы)
 
 *Crucial Note: These formulas use strictly non-toxic, food-grade materials. The harvested water is 100% safe for consumption and has no chemical odor.*
