@@ -86,8 +86,8 @@ class NamibeOptimizer:
         # Радиус от 0.1 мм до 5 мм
         # Расстояние от 0.5 мм до 20 мм
         bounds = [(0.0001, 0.005), (0.0005, 0.020)]
-        
-        result = minimize(self.water_collection_rate, initial_guess, bounds=bounds, method='L-BFGS-B')
+        # Заменяем метод на Nelder-Mead, он не боится обрывов функции в ноль
+        result = minimize(self.water_collection_rate, initial_guess, bounds=bounds, method='Nelder-Mead')
         
         return result
 
