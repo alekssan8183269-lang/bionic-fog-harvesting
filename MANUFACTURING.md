@@ -3,7 +3,7 @@
 To turn the generated `.stl` mesh into a functioning atmospheric water generator, the substrate must replicate the **biphilic surface chemistry** of the Namib Desert beetle. Raw 3D-printed plastic (PLA, PETG, or Resin) has a uniform wettability and **will not harvest water efficiently** without the following micro-layering process.
 
 ### ⏱️ Step-by-Step Manufacturing Protocol
-
+```bash
 [ 1. Raw 3D Mesh ]  ---> Clean & Sand (Smooth Surface)
 |
 [ 2. Hydrophobic ]  ---> Apply Fluoropolymer Base Layer (Entire Tile)
@@ -11,7 +11,7 @@ To turn the generated `.stl` mesh into a functioning atmospheric water generator
 [ 3. Masking/Stamping ] ---> Shield the Valleys, Expose Only Peak Tips
 |
 [ 4. Hydrophilic ]  ---> Deposition of TiO2 or SiO2 Nanoparticles (Peaks Only)
-
+```
 
 #### Step 1: Substrate Preparation (Eliminating Print Artifacts)
 * **Action:** Post-cure (if using SLA resin) or chemically smooth (if using FDM plastic like ABS/ASA via acetone vapor). 
