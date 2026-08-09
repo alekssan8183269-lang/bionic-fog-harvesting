@@ -4,7 +4,7 @@
 
 ---
 
-> "This repository is a practical sub-module and a direct spin-off of the [RE-PHYSICS (Computational Archival Physics)](https://github.com) framework. It implements the **Method of Digital Voids** by occupying an ignored academic gap: the intersection of raw 19th-century thermodynamics, micro-surface geometry, and autonomous 3D CAD generation."
+> "This repository is a practical sub-module and a direct spin-off of the [RE-PHYSICS (Computational Archival Physics)](https://github.com/alekssan8183269-lang/computational-archival-physics) framework. It implements the **Method of Digital Voids** by occupying an ignored academic gap: the intersection of raw 19th-century thermodynamics, micro-surface geometry, and autonomous 3D CAD generation."
 
 ---
 
