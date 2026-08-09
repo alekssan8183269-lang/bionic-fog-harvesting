@@ -148,5 +148,10 @@ You hold the power to adapt the geometry of nature to your specific village, you
 
 *If you violate this protocol, you are building a chemical hazard, not a water collector. Safety first!*
 
+*   **NEVER USE Liquid Glass (Sodium/Potassium Silicate or School Silicate Glue)!** 
+  There is a dangerous misconception that silicate glue dries into safe, permanent "glass." This is chemically false. At room temperature, it cures into a water-soluble, highly alkaline crystalline salt. 
+  When fog or rain hits the panel, the water will instantly dissolve the cured glue, turning the harvested drinking water into a caustic, poisonous alkaline solution. Drinking this water will cause severe chemical burns to the mouth, esophagus, and stomach. 
+  For durable hydrophilic binding, ONLY use 100% Food-Grade / Aquarium-safe silicone or food-safe epoxy.
+
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes. Created in 2026.
