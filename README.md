@@ -11,7 +11,7 @@
 ## 🌌 The Crisis & The Concept
 In arid regions like Sub-Saharan Africa, fetching clean water is a daily crisis. While classical engineering relies on active, high-energy infrastructure, nature solves this passively. 
 
-The *Onymacris unguicularis* (Namib Desert beetle) collects clean drinking water from dry morning fog using nothing but the geometric texture of its back. This repository provides a **Generative Bionic Design engine** that translates the complex physics of the beetle’s shell into optimized, 3D-printable physical panels.
+The *Onymacris unguicularis* (Namib Desert beetle) ![Namib Desert beetle](1685103771_gagaru-club-p-namibiiskii-zhuk-pinterest-3.jpg) collects clean drinking water from dry morning fog using nothing but the geometric texture of its back. This repository provides a **Generative Bionic Design engine** that translates the complex physics of the beetle’s shell into optimized, 3D-printable physical panels.
 
 ## 🛠️ Deep Technical Mechanics
 Unlike standard static meshes, this Python tool dynamically calculates surface geometry based on your specific local environment (wind speed, fog density). It computes:
