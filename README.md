@@ -60,6 +60,7 @@ By tweaking these parameters, the script automatically recalibrates the non-line
 This code outputs the **mathematically perfect geometric form** for fluid detachment. For successful real-world deployment by humanitarian organizations, 3D-printed physical tiles require strict material post-processing:
 * **The Peaks:** Must be micro-treated with a hydrophilic coating (water-attracting).
 * **The Slopes & Valleys:** Must be treated with a highly hydrophobic substance (e.g., specialized wax or hydrophobic spray).
+*   **🚨 THE DESERT HEAT MELT FACTOR (Выбор пластика):** Do NOT print this panel using standard **PLA plastic**. The ground temperature in arid deserts easily exceeds 65°C (150°F) during peak daylight. PLA will completely soften, warp, and melt into a plastic puddle under the sun. **YOU MUST USE PETG, ABS, OR ASA FILAMENTS.** ASA is highly recommended as it provides superior UV resistance and stable structural integrity up to 95°C.
 
 *Without proper material polarity, the water will simply smear across the plastic plate. Shape is nothing without substance.*
 
