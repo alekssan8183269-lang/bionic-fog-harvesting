@@ -163,6 +163,24 @@ We are actively looking for:
 * **Field Volunteers:** If you are working in arid regions (e.g., Atacama, Namib, parts of Sub-Saharan Africa), run the 5-minute spray bottle test and send us your water yield data!
 
 Let's turn code into clean water together.
+## 🗺️ Modular Upgrades & Feature Voting (Голосование за модернизации)
+
+We want to build what *you* actually need in the field. Below are 10 proposed modular upgrades for the generative engine. 
+
+**How to vote:** Go to the [Feature Voting Issue #1](https://github.com) and drop a reaction (like 👍 or 🎉) on the feature you want to see next! Once an upgrade hits 15+ votes, we build it immediately.
+
+| # | Proposed Upgrade (Модернизация) | Status | Goal |
+|---|----------------------------------|--------|------|
+| 1 | **Automatic Wind-Mesh Scaling**: Auto-adjust spacing between bumps based on seasonal wind spikes. | 💡 Idea | 15 Votes |
+| 2 | **Web-UI Dashboard (No-Code)**: A simple web browser page where you slide variables and get STL instantly. | 💡 Idea | 15 Votes |
+| 3 | **Gravity-Drain Micro-Channels**: Adding biomimetic micro-grooves (like the Texas horned lizard skin) to accelerate water drainage. | 💡 Idea | 15 Votes |
+| 4 | **Multi-Panel Interlocking Joints**: Generate panels with puzzle-like edges so they can snap together into giant collector walls. | 💡 Idea | 15 Votes |
+| 5 | **Low-Poly Low-Memory Export**: Optimization for ultra-fast slicing on older, entry-level 3D printers. | 💡 Idea | 15 Votes |
+| 6 | **GPS-Climate API Integration**: Type your coordinates, and the script automatically fetches local humidity/wind history from open weather APIs. | 💡 Idea | 15 Votes |
+| 7 | **Gyroid Sub-Surface Infills**: Generate internal hollow channels inside the panel to save up to 40% of plastic filament. | 💡 Idea | 15 Votes |
+| 8 | **Anti-Silt Texture**: Add micro-patterns that prevent dust and sand from sticking to the hydrophobic wax valleys during dry days. | 💡 Idea | 15 Votes |
+| 9 | **Free-Form Architectural Wrapping**: Allow the code to export meshes mapped onto curved surfaces (for wrapping around tents or water tanks). | 💡 Idea | 15 Votes |
+| 10| **Pre-Configured Slicer Profiles**: Add ready-to-use `.3mf` print profiles for OrcaSlicer/PrusaSlicer tailored for watertight PETG printing. | 💡 Idea | 15 Votes |
 
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes. Created in 2026.
