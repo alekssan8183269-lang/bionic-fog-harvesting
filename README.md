@@ -30,11 +30,11 @@ pip install numpy scipy matplotlib numpy-stl
 ### 2. Execution
 Run the standalone generator to compute optimal bionic proportions, plot the 3D efficiency landscape, and export a ready-to-print 3D panel:
 ```bash
-python namib_generator.py
+python namib_generator.py Bionic-Void-Mesh.py
 ```
 ## ⚙️ Efficiency Tuning: How to Hack the Variables
 
-You don't need to rewrite the underlying math to adapt this tool to your local environment. Open `namib_generator.py` and modify the **Field Configuration Block** inside the `if __name__ == "__main__":` section at the bottom of the script:
+You don't need to rewrite the underlying math to adapt this tool to your local environment. Open `Bionic-Void-Mesh.py` and modify the **Field Configuration Block** inside the `if __name__ == "__main__":` section at the bottom of the script:
 
 ```python
 # --- REAL-WORLD FIELD CONFIGURATION BLOCK ---
