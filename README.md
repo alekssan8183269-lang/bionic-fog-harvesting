@@ -45,6 +45,28 @@ Instead of lab-grade $TiO_2$ nanoparticles, we use everyday building materials o
 * **Proportions:** Mix **5 grams of pigment** into **50 mL of water-based clear varnish** until it forms a milky paste.
 * **Application (Stamping):** Pour a thin layer of this mixture onto a flat surface. Take your wax-coated tile, and lightly press its face into the paint. The paint will stick *only* to the tips of the bumps. 
 * **Result:** The matte acrylic resin locks the hydrophilic mineral powder onto the tips, creating a permanent water-attracting matrix without any nanotechnology.
+### 🍯 100% Safe Eco-Formulations (Полностью пищевые безопасные составы)
+
+*Crucial Note: These formulas use strictly non-toxic, food-grade materials. The harvested water is 100% safe for consumption and has no chemical odor.*
+
+#### Formula A: Safe Bio-Hydrophobic Coating (Эко-защита впадин и склонов)
+Instead of chemical solvents, we use pure thermal deposition of natural food-grade waxes.
+* **Hydrophobic Agent:** Pure **Beeswax (Пчелиный воск)** OR natural **Carnauba wax (Воск карнауба)**.
+* **Carrier Solvent:** NONE. We do not use any toxic solvents or thinners.
+* **Application Process (Thermal Dip):**
+  1. Melt the natural wax in a water bath (heat to ~70-80°C until it becomes a thin liquid).
+  2. Briefly dip the entire 3D-printable panel into the liquid wax for 2 seconds, or apply a very thin layer using a natural bristle brush.
+  3. Immediately blow hot air over the tile (using a heat gun or standard hair dryer). The hot air will melt away any excess thickness, leaving a microscopically thin, smooth, and highly hydrophobic bio-wax film across the valleys and slopes.
+
+#### Formula B: Food-Grade Hydrophilic Activation (Безопасная активация верхушек)
+To attract water strictly on the tips of the bumps without using micro-plastics or chemical varnishes.
+* **Hydrophilic Mineral:** Food-grade **Titanium Dioxide ($TiO_2$, E171)** (the exact white powder used to color white M&Ms, chewing gums, and toothpaste, totally non-toxic and costs pennies) OR ordinary **Food-grade Cornstarch (Кукурузный крахмал)**.
+* **Carrier Binder:** Organic **Gum Arabic (Гуммиарабик / Пищевая смола акации, E414)**. This is a natural, water-soluble tree sap powder used for centuries as a safe binder in food and watercolors.
+* **Proportions:** Dissolve 2g of Gum Arabic in 20 mL of warm water, then mix in 5g of $TiO_2$ (or starch) until it forms a thick white paste.
+* **Application (The Safe Stamping Method):**
+  1. Spread a paper-thin layer of the white paste onto a flat glass plate.
+  2. Take your wax-coated tile and press its face gently onto the plate. The organic paste will stick *only* to the apexes of the bumps.
+  3. Let it dry completely. Once dry, the Gum Arabic forms a rock-hard, safe matrix that holds the water-attracting minerals on the peaks.
 
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes.
