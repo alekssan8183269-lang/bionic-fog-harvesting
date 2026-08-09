@@ -68,6 +68,34 @@ To attract water strictly on the tips of the bumps without using micro-plastics 
   1. Spread a paper-thin layer of the white paste onto a flat glass plate.
   2. Take your wax-coated tile and press its face gently onto the plate. The organic paste will stick *only* to the apexes of the bumps.
   3. Let it dry completely. Once dry, the Gum Arabic forms a rock-hard, safe matrix that holds the water-attracting minerals on the peaks.
+### 📊 Field Testing Protocol & Efficiency Hacking (Как тестировать и разгонять КПД)
+
+*You don’t need an atmospheric lab to test this. You can run validation in 5 minutes using a simple water spray bottle and a kitchen scale.*
+
+#### 🛠️ Standard Field Test Setup (Порядок проверки)
+1. **The Fog Simulator:** Take a standard garden or cleaning spray bottle (nebulizer) filled with clean water. Adjust the nozzle to the finest possible mist setting to simulate natural fog.
+2. **The Test Angle:** Mount your coated 3D-printed panel at a **45-degree angle** inside a collection container. 
+3. **The Run:** Spray the mist uniformly from a distance of 30 cm for exactly **3 minutes**. Weight the collected water on a pocket scale.
+
+---
+
+#### 🚀 How to "Hack" and Maximize the Water Yield (КПД)
+
+If your first test yields low water volume, do not panic. Use these three bionic parameters to optimize efficiency in your specific field conditions:
+
+| Symptom / Problem | Root Cause | Engineering Solution (How to Fix) |
+| :--- | :--- | :--- |
+| **Water smears into a flat film** (No drops rolling down) | The wax layer is too thin or uneven. | **Re-wax:** Re-heat the plate with a hair dryer to let the beeswax flow more smoothly into the valleys. |
+| **Droplets freeze on the peaks** (They grow but never fall) | The calculated bump radius is too small for current low wind. | **Run Python Again:** Increase the `WIND_SPEED` variable in the script by +1.5 m/s and re-generate a mesh with larger bumps. |
+| **Droplets roll down too slowly** (Evaporating on their way) | The panel tilt angle is wrong or slopes are too rough. | **Steepen the Tilt:** Increase the physical panel deployment angle from 45° to 60° to let gravity win faster. |
+| **The white paint washes off** | Gum Arabic mixture was too watery. | **Thicken the Paste:** Re-apply the peak stamping paste using less water and more food-grade starch/binder. |
+
+---
+
+### 💡 Why Communities Will Do This (The Gamification of Science)
+By providing this simple checklist, you turn a complex engineering problem into a practical loop: **Run Python Code ➡️ Print ➡️ Wax ➡️ Spray ➡️ Measure.** 
+
+When a field volunteer sees with their own eyes that changing the bump size in your code instantly adds +20% more water into their test cup, they become hooked. You give them the power to adapt the geometry to their specific village, climate, and printer.
 
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes.
