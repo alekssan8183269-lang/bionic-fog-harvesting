@@ -47,6 +47,15 @@ This code outputs the **mathematically perfect geometric form** for fluid detach
 ## 🔗 Structural Connection to RE-PHYSICS
 This project operates under the **Method of Digital Voids (Methodology of Semantic Vacuum)**. It takes theoretical formulas abandoned in historical archives by pure physicists and wraps them into production-ready Python code for modern makers and humanitarian field engineers.
 
+## 🛠 Current Release Status: Alpha Prototype & Community Sandbox
+
+**Note for Field Engineers & Makers:** 
+The current 3D panel model (`namib_surface_panel.stl`) is an initial, low-density proof-of-concept design. It was created with wide spacing to guarantee successful printing on absolute any entry-level 3D printer without fusion or slicing errors.
+
+* **Primary Purpose:** This is a physical "sandbox" model for your initial material testing (evaluating wax adhesion, testing food-grade silicone application, and checking general fluid flow).
+* **Efficiency Hacking:** To reach the maximum water collection peak shown on the performance landscape chart, you are encouraged to tweak the `namib_generator.py` script. For deployment, regenerate the mesh with tighter tolerances (target: ~1.7mm bump radius with a ~1.0mm flat clearance between edges).
+* **Open Invitation:** Since I design this from a CAD/structural perspective without a physical 3D printer on hand, please share your print settings, photos of physical tiles, and field-test water yields in the Issues tab!
+
 ### 🛖 Low-Cost Field Formulations (Гуманитарные "гаражные" рецепты)
 
 *Warning: These formulations are designed for low-budget humanitarian deployment in field conditions where lab-grade reagents are unavailable. They cost almost zero.*
