@@ -64,6 +64,17 @@ This code outputs the **mathematically perfect geometric form** for fluid detach
 
 *Without proper material polarity, the water will simply smear across the plastic plate. Shape is nothing without substance.*
 
+## 📍 Project Status & Call for Physical Testing (Статус проекта)
+
+**Current Version: v1.0.0 (Alpha - Theoretical & Algorithmic Validation)**
+
+*   **Software Status:** 100% Complete. The non-linear physics equations, SciPy optimization core, and high-poly STL grid generation engine are fully operational and verified.
+*   **Hardware Status:** Theoretical. As of today, this panel has **NOT** been physically 3D-printed or lab-tested by the core author. 
+*   **Why?** This framework is a pure architectural manifesto of Computational Archival Physics. The author's goal was to build the mathematical and digital bridge. 
+
+**📢 CALL FOR MAKERS AND FIELD ENGINEERS:** 
+If you have access to an FDM/SLA 3D printer and the eco-materials described below (beeswax, gum arabic), we need your help! Print the generated `namib_surface_panel.stl`, run the 3-minute spray test, and submit your real-world efficiency data via Github Issues to help us calibrate the theoretical physics equations.
+
 ## 🔗 Structural Connection to RE-PHYSICS
 This project operates under the **Method of Digital Voids (Methodology of Semantic Vacuum)**. It takes theoretical formulas abandoned in historical archives by pure physicists and wraps them into production-ready Python code for modern makers and humanitarian field engineers.
 
