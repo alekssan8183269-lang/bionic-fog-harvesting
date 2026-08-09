@@ -153,5 +153,16 @@ You hold the power to adapt the geometry of nature to your specific village, you
   When fog or rain hits the panel, the water will instantly dissolve the cured glue, turning the harvested drinking water into a caustic, poisonous alkaline solution. Drinking this water will cause severe chemical burns to the mouth, esophagus, and stomach. 
   For durable hydrophilic binding, ONLY use 100% Food-Grade / Aquarium-safe silicone or food-safe epoxy.
 
+## 🤝 Join the Sandbox (How to Contribute)
+
+This is an open-source humanitarian project. Since this was engineered from a computational/structural perspective without a physical lab, your real-world feedback is what keeps this project alive. 
+
+We are actively looking for:
+* **Makers with 3D Printers:** Print the panel in **PETG/ABS**, apply the thermal wax coating, and share your print configuration/photos in the [Issues](https://github.com) tab.
+* **Material Scientists:** Help us test and refine food-safe hydrophilic/hydrophobic boundary layers and alternative eco-binders.
+* **Field Volunteers:** If you are working in arid regions (e.g., Atacama, Namib, parts of Sub-Saharan Africa), run the 5-minute spray bottle test and send us your water yield data!
+
+Let's turn code into clean water together.
+
 ## 📄 License
 This project is open-source and available under the MIT License. Feel free to use it for humanitarian, educational, or research purposes. Created in 2026.
